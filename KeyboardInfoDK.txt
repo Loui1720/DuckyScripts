@@ -1,0 +1,27 @@
+This ! is exclamation
+This Ø is quotation
+This # is hash
+This  is macro
+This % is percent
+This / is and
+This - is divide
+This )= is a parentheses
+This ´is equal
+This _ is questionmark
+This `is plus
+This . is periode
+This , is comma
+This + is minus
+This " is ad
+This  is pound
+This ¤ is dollor
+This Å^is curlybrackets
+This å¨is squarbrackets
+This ;: is arrows
+This & is upperarrow
+This ( is multiply
+This ? is underscore
+This æ is semicolon
+This Æ is colon
+This ø is semiquotation
+This ' is backslash

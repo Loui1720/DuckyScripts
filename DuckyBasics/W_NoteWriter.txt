@@ -1,0 +1,86 @@
+REM This program will open notepad.exe and write a note.
+
+GUI r
+DELAY 1000
+STRING notepad.exe
+ENTER
+DELAY 2000
+STRING This ! is exclamation
+ENTER
+DELAY 200
+STRING This " is quotation
+ENTER
+DELAY 200
+STRING This # is hash
+ENTER
+DELAY 200
+STRING This ¤ is macro
+ENTER
+DELAY 200
+STRING This % is percent
+ENTER
+DELAY 200
+STRING This & is and
+ENTER
+DELAY 200
+STRING This / is divide
+ENTER
+DELAY 200
+STRING This () is a parentheses
+ENTER
+DELAY 200
+STRING This = is equal
+ENTER
+DELAY 200
+STRING This ? is questionmark
+ENTER
+DELAY 200
+STRING This + is plus
+ENTER
+DELAY 200
+STRING This . is periode
+ENTER
+DELAY 200
+STRING This , is comma
+ENTER
+DELAY 200
+STRING This - is minus
+ENTER
+DELAY 200
+STRING This @ is ad
+ENTER
+DELAY 200
+STRING This £ is pound
+ENTER
+DELAY 200
+STRING This $ is dollor
+ENTER
+DELAY 200
+STRING This {} is curlybrackets
+ENTER
+DELAY 200
+STRING This [] is squarbrackets
+ENTER
+DELAY 200
+STRING This <> is arrows
+ENTER
+DELAY 200
+STRING This ^ is upperarrow
+ENTER
+DELAY 200
+STRING This * is multiply
+ENTER
+DELAY 200
+STRING This _ is underscore
+ENTER
+DELAY 200
+STRING This ; is semicolon
+ENTER
+DELAY 200
+STRING This : is colon
+ENTER
+DELAY 200
+STRING This ' is semiquotation
+ENTER
+DELAY 200
+STRING This \ is backslash

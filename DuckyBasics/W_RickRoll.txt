@@ -1,0 +1,8 @@
+REM This program will open youtube and play Rick Astley.
+
+GUI r
+DELAY 2000
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 8000
+STRING f

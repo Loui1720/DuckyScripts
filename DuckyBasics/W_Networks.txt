@@ -1,0 +1,8 @@
+REM The next three lines execute a command prompt in Windows
+GUI r
+DELAY 1000
+STRING cmd
+ENTER
+DELAY 1000
+STRING netsh wlan show profiles
+ENTER

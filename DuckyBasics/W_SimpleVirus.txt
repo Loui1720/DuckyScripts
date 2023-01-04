@@ -1,0 +1,15 @@
+REM This program will open 3 cmd windows.
+
+GUI r
+DELAY 100
+STRING cmd
+ENTER
+DELAY 200
+STRING start
+ENTER
+DELAY 200
+STRING start
+ENTER
+DELAY 200
+STRING start
+ENTER
