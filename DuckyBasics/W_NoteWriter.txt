@@ -84,3 +84,36 @@ STRING This ' is semiquotation
 ENTER
 DELAY 200
 STRING This \ is backslash
+ENTER
+DELAY 200
+STRING This § is Law sign
+ENTER
+DELAY 200
+STRING This ½ is a half sign
+ENTER
+DELAY 200
+STRING This is | is vertical lign
+ENTER
+DELAY 200
+STRING This ´ is notation
+ENTER
+DELAY 200
+STRING This ~ is ca sign
+ENTER
+DELAY 200
+STRING This æ is the danish letter ae
+ENTER
+DELAY 200
+STRING This Æ is uppercase ae
+ENTER
+DELAY 200
+STRING This ø is the danish letter oe
+ENTER
+DELAY 200
+STRING This Ø is uppercase oe
+ENTER
+DELAY 200
+STRING This å is the danish letter aa
+ENTER
+DELAY 200
+STRING This Å is uppercase aa
